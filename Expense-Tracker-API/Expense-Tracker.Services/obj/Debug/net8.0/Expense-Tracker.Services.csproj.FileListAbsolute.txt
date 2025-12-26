@@ -1,0 +1,17 @@
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.csproj.AssemblyReference.cache
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.AssemblyInfoInputs.cache
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.AssemblyInfo.cs
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.csproj.CoreCompileInputs.cache
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Services.deps.json
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Services.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Services.pdb
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Common.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Repository.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Common.pdb
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\bin\Debug\net8.0\Expense-Tracker.Repository.pdb
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-.E6CE9A8F.Up2Date
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\refint\Expense-Tracker.Services.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\Expense-Tracker.Services.pdb
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Services\obj\Debug\net8.0\ref\Expense-Tracker.Services.dll

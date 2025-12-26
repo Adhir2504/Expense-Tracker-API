@@ -1,0 +1,11 @@
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\bin\Debug\net8.0\Expense-Tracker.Common.deps.json
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\bin\Debug\net8.0\Expense-Tracker.Common.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\bin\Debug\net8.0\Expense-Tracker.Common.pdb
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\Expense-Tracker.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\Expense-Tracker.Common.AssemblyInfoInputs.cache
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\Expense-Tracker.Common.AssemblyInfo.cs
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\Expense-Tracker.Common.csproj.CoreCompileInputs.cache
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\Expense-Tracker.Common.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\refint\Expense-Tracker.Common.dll
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\Expense-Tracker.Common.pdb
+C:\Users\SD863720\source\repos\Expense-Tracker-API\Expense-Tracker.Common\obj\Debug\net8.0\ref\Expense-Tracker.Common.dll

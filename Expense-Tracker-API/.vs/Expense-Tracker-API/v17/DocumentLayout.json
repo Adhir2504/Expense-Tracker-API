@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4212A7-81FA-4EEB-AF50-C558527090F0}|Expense-Tracker-API\\Expense-Tracker-API.csproj|c:\\users\\sd863720\\source\\repos\\expense-tracker-api\\expense-tracker-api\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4212A7-81FA-4EEB-AF50-C558527090F0}|Expense-Tracker-API\\Expense-Tracker-API.csproj|solutionrelative:expense-tracker-api\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF21DEF-0D1E-4D57-A2E4-1DC2931F95E5}|Expense-Tracker.Common\\Expense-Tracker.Common.csproj|c:\\users\\sd863720\\source\\repos\\expense-tracker-api\\expense-tracker.common\\models\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF21DEF-0D1E-4D57-A2E4-1DC2931F95E5}|Expense-Tracker.Common\\Expense-Tracker.Common.csproj|solutionrelative:expense-tracker.common\\models\\dtos\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BD2EF3-598D-4D35-8516-E8D9D88FC71C}|Expense-Tracker.Services\\Expense-Tracker.Services.csproj|c:\\users\\sd863720\\source\\repos\\expense-tracker-api\\expense-tracker.services\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BD2EF3-598D-4D35-8516-E8D9D88FC71C}|Expense-Tracker.Services\\Expense-Tracker.Services.csproj|solutionrelative:expense-tracker.services\\services\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871CCA4D-A62A-4B08-8ADE-CEBCED7AF6B4}|Expense-Tracker.Repository\\Expense-Tracker.Repository.csproj|c:\\users\\sd863720\\source\\repos\\expense-tracker-api\\expense-tracker.repository\\repositories\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871CCA4D-A62A-4B08-8ADE-CEBCED7AF6B4}|Expense-Tracker.Repository\\Expense-Tracker.Repository.csproj|solutionrelative:expense-tracker.repository\\repositories\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BD2EF3-598D-4D35-8516-E8D9D88FC71C}|Expense-Tracker.Services\\Expense-Tracker.Services.csproj|c:\\users\\sd863720\\source\\repos\\expense-tracker-api\\expense-tracker.services\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BD2EF3-598D-4D35-8516-E8D9D88FC71C}|Expense-Tracker.Services\\Expense-Tracker.Services.csproj|solutionrelative:expense-tracker.services\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker-API\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "Expense-Tracker-API\\Controllers\\BudgetController.cs",
+              "ToolTip": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker-API\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "Expense-Tracker-API\\Controllers\\BudgetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:22:24.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Services\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Expense-Tracker.Services\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Services\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Expense-Tracker.Services\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:32:40.966Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BudgetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Repository\\Repositories\\BudgetRepository.cs",
+              "RelativeDocumentMoniker": "Expense-Tracker.Repository\\Repositories\\BudgetRepository.cs",
+              "ToolTip": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Repository\\Repositories\\BudgetRepository.cs",
+              "RelativeToolTip": "Expense-Tracker.Repository\\Repositories\\BudgetRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:24:12.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Services\\Services\\BudgetService.cs",
+              "RelativeDocumentMoniker": "Expense-Tracker.Services\\Services\\BudgetService.cs",
+              "ToolTip": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Services\\Services\\BudgetService.cs",
+              "RelativeToolTip": "Expense-Tracker.Services\\Services\\BudgetService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:24:00.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Common\\Models\\DTOs\\BudgetDTO.cs",
+              "RelativeDocumentMoniker": "Expense-Tracker.Common\\Models\\DTOs\\BudgetDTO.cs",
+              "ToolTip": "C:\\Users\\SD863720\\source\\repos\\Expense-Tracker-API\\Expense-Tracker.Common\\Models\\DTOs\\BudgetDTO.cs",
+              "RelativeToolTip": "Expense-Tracker.Common\\Models\\DTOs\\BudgetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:33:32.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Expense_Tracker.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Expense-Tracker.Common\Expense-Tracker.Common.csproj" />
+    <ProjectReference Include="..\Expense-Tracker.Repository\Expense-Tracker.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

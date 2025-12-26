@@ -1,0 +1,36 @@
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\appsettings.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Learning ASP.net.staticwebassets.endpoints.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Learning ASP.net.exe
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Learning ASP.net.deps.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Learning ASP.net.runtimeconfig.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Learning ASP.net.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Learning ASP.net.pdb
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.csproj.AssemblyReference.cache
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.AssemblyInfoInputs.cache
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.AssemblyInfo.cs
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.csproj.CoreCompileInputs.cache
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\scopedcss\bundle\Learning ASP.net.styles.css
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets\msbuild.Learning ASP.net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets\msbuild.Learning ASP.net.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets\msbuild.build.Learning ASP.net.props
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Learning ASP.net.props
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Learning ASP.net.props
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning.6C223C18.Up2Date
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\refint\Learning ASP.net.dll
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.pdb
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\Learning ASP.net.genruntimeconfig.cache
+C:\Users\SD863720\source\repos\Learning ASP.net\Learning ASP.net\obj\Debug\net8.0\ref\Learning ASP.net.dll
